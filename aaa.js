@@ -10,3 +10,9 @@
 // git merge --allow-unrelated-histories
 // 配置push使用上有分支
 // git config push.default upstream
+// 推送远程
+// git push
+
+// 跟中远程分支
+
+// git checkout --track origin/main
